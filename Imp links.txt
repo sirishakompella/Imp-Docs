@@ -1,0 +1,7 @@
+http://www.deeplearningbook.org/
+
+http://themlbook.com/wiki/doku.php
+
+NLP with Python
+
+https://www.nltk.org/book/
